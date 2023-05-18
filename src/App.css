@@ -1,0 +1,46 @@
+.maindiv {
+  position: relative;
+  height: 800px;
+  width: 700px;
+}
+
+.hotspot {
+  position: absolute;
+  height: 20px;
+  width: 20px;
+  border-radius: 50%;
+  background-color: blue;
+}
+
+.one {
+  z-index: 10;
+  top: 100px;
+  right: 350px;
+}
+
+.two {
+  z-index: 10;
+  top: 200px;
+  left: 300px;
+}
+
+.three {
+  top: 300px;
+  right: 90px;
+}
+
+.four {
+  top: 300px;
+  right: 300px;
+}
+
+.v360-viewer-container {
+  z-index: 20;
+  height: 800px;
+  width: 700px;
+}
+
+.v360-image-container {
+  height: 800px;
+  width: 700px;
+}
