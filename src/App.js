@@ -8,7 +8,7 @@ function App() {
         <ThreeSixty
           amount={70}
           imagePath=""
-          fileName={process.env.PUBLIC_URL + "/images/body-{index}.jpeg"}
+          fileName={window.location.origin + "/images/body-{index}.jpeg"}
         />
       </div>
       <span className="hotspot one"></span>
