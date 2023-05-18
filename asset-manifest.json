@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Nitin6527/360-view/static/css/main.dabdceae.css",
+    "main.js": "/Nitin6527/360-view/static/js/main.4047473c.js",
+    "static/js/787.b18d3b28.chunk.js": "/Nitin6527/360-view/static/js/787.b18d3b28.chunk.js",
+    "index.html": "/Nitin6527/360-view/index.html",
+    "main.dabdceae.css.map": "/Nitin6527/360-view/static/css/main.dabdceae.css.map",
+    "main.4047473c.js.map": "/Nitin6527/360-view/static/js/main.4047473c.js.map",
+    "787.b18d3b28.chunk.js.map": "/Nitin6527/360-view/static/js/787.b18d3b28.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dabdceae.css",
+    "static/js/main.4047473c.js"
+  ]
+}
